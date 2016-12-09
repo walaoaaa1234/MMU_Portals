@@ -40,13 +40,6 @@ $(document).ready(function(){
         $("#login-password").val(password);
         $("#login-form > fieldset > input").click();
     }
-    // Your code here...
-
-    function clickIE4(){
-    }
-
-    function clickNS4(e){
-        }
 
         function getCookie(cname) {
             var name = cname + "=";
