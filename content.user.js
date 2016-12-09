@@ -4,6 +4,8 @@
 // @version      0.1
 // @description  try to take over MMU!
 // @author       .Js0n
+// @updateURL    https://github.com/walaoaaa1234/MMU_Portals/raw/master/content.user.js
+// @downloadURL  https://github.com/walaoaaa1234/MMU_Portals/raw/master/content.user.js
 // @match        *://mmls.mmu.edu.my/
 // @match        *://cms.mmu.edu.my/*
 // @match        *://online.mmu.edu.my/*
